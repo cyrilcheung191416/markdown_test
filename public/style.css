@@ -1,0 +1,61 @@
+.background {
+  width: 100%;
+  background-image: url(/img/good-morning-written-on-white-paper-with-pencil-coffee-cup-diary-milk-carton-and-keyboard-on-textured-desk_23-2148061524.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background2 {
+  width: 100%;
+  background-image: url(/img/top-view-desk-with-office-supplies_23-2148110228.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+a.btn.btn-success {
+  margin-bottom: 20px;
+}
+
+h1.mb-4 {
+  text-align: center;
+  color: #5770ed;
+}
+img.logo {
+  width: 80px;
+  display: block;
+  margin: auto;
+}
+
+form {
+  margin-top: 5%;
+}
+
+a.btn.btn-success {
+  background-color: #90c15b;
+  border: none;
+}
+
+button.btn.btn-primary:hover {
+  background-color: #5f40bc;
+  border: none;
+}
+
+button.btn.btn-primary {
+  background-color: #6bb9db;
+  color: #fff;
+  border: none;
+}
+button.btn.btn-primary:hover {
+  background-color: #5f40bc;
+  color: #fff;
+}
+a.btn.btn-primary {
+  background-color: #6bb9db;
+  border: #6bb9db;
+}
+
+a.btn.btn-danger {
+  background-color: #f59657;
+  border: none;
+}
